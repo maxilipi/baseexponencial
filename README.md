@@ -1,0 +1,2 @@
+# baseexponencial
+Created with CodeSandbox
